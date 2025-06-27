@@ -24,13 +24,6 @@ INSERT INTO Author (name) VALUES
 
 Insert into author(name)values('sahana');
 
-
-
-
-
-
-
-
 CREATE TABLE Book (
     book_id INT PRIMARY KEY AUTO_INCREMENT,
     title VARCHAR(255) NOT NULL,
